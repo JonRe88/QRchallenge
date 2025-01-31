@@ -31,8 +31,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [[https://github.com/JonRe88/QRchallenge/edit/main/README.md](https://github.com/JonRe88/QRchallenge/edit/main/README.md)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/JonRe88/QRchallenge/edit/main/README.md](https://github.com/JonRe88/QRchallenge/edit/main/README.md)
+- Live Site URL: [https://jonre88.github.io/QRchallenge/](https://jonre88.github.io/QRchallenge/)
 
 ## My process
 
